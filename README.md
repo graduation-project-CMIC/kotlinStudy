@@ -5,10 +5,11 @@ CMIC Kotlin에 대한 스터디 기록 파일입니다
 
 ## 📌 Basic Syntax
 
-#### 1. 함수정의
+#### 1. 함수정의 !
 
-1. return
-함수는 fun 키워드로 정의한다.
+1. return<br>
+
+*** 함수는 fun 키워드로 정의한다. ***
 
 ```
 fun sum(a: Int, b: Int):Int{
