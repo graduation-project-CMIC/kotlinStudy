@@ -5,7 +5,7 @@ CMIC Kotlin에 대한 스터디 기록 파일입니다
 
 ## 📌 Basic Syntax
 
-#### 1. 함수정의 !
+#### 1. 함수정의 !!
 
 1. return<br>
 
