@@ -3,7 +3,7 @@
 
 ## 1. 흐름 제어문
 
-### <span style="color: #2980B9">__1. If else__<br></span> 
+### 1. If else__<br>
 
 *java와 거의 유사하다*
 
@@ -50,7 +50,7 @@ java에는 삼항 연산자가 있었으나, kotlin에는 삼항 연산자가 �
 Val max = if(a > b) a else b
 ```
 
-### <span style="color: #2980B9">__2. When__<br></span> 
+### 2. When__<br>
 
 *c계열 언어의 switch문을 대체한다.*
 
@@ -138,7 +138,7 @@ when{
 }
 ```
 
-### <span style="color: #2980B9">__3. for__<br></span> 
+### 3. for__<br>
 
 for문은 iterator을 제공하는 모든 것을 반복할 수 있음
 *java에서 쓰던 향상된 for루프문과 비슷*
@@ -202,7 +202,7 @@ for((index, value) in array.withIndex()){ //index와 value가 모두 반환됨
 }
 ```
 
-### <span style="color: #2980B9">__4. while__<br></span> 
+### 4. while__<br>
 
 *while, do-while문은 java와 거의 같다.*
 
@@ -221,3 +221,7 @@ do{
 }while(b!=null) //b is invisible here(java)
 
 ```
+
+
+
+end
