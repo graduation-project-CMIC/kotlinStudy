@@ -14,4 +14,4 @@ ex) 2020-05-22 [Basic Syntax] Add/Update/Delete ims
 
 [Packages Return and Jumps](https://github.com/graduationProjectCMIC/kotlinStudy/blob/master/%EB%AA%A8%EC%9D%8C/Packages_Return_and_Jumps.md)
 
-[Inheritance](https://github.com/graduationProjectCMIC/kotlinStudy/commit/3a062bdf84558faff947d82f8b154101dc8c2ee3)
+[Inheritance](https://github.com/graduationProjectCMIC/kotlinStudy/blob/master/%EB%AA%A8%EC%9D%8C/Inheritance.md)
