@@ -221,7 +221,3 @@ do{
 }while(b!=null) //b is invisible here(java)
 
 ```
-
-
-
-end
