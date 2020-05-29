@@ -1,4 +1,4 @@
-## Kotlin - Basic Types
+## 📌 Kotlin - Basic Types
 <hr/>
 
 ## 기본 타입
