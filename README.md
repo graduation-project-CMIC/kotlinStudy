@@ -13,3 +13,9 @@ ex) 2020-05-22 [Basic Syntax] Add/Update/Delete ims
 [Control Flow](https://github.com/graduationProjectCMIC/kotlinStudy/blob/master/%EB%AA%A8%EC%9D%8C/control_flow.md)
 
 [Packages Return and Jumps](https://github.com/graduationProjectCMIC/kotlinStudy/blob/master/%EB%AA%A8%EC%9D%8C/Packages_Return_and_Jumps.md)
+
+[Inheritance](https://github.com/graduationProjectCMIC/kotlinStudy/blob/master/%EB%AA%A8%EC%9D%8C/Inheritance.md)
+
+[Clas](https://github.com/graduationProjectCMIC/kotlinStudy/blob/master/%EB%AA%A8%EC%9D%8C/class.md)
+
+[Properties and Fields](https://github.com/graduationProjectCMIC/kotlinStudy/blob/master/%EB%AA%A8%EC%9D%8C/Properties%26Fields.md)
