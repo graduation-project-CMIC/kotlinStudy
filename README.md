@@ -16,7 +16,7 @@ ex) 2020-05-22 [Basic Syntax] Add/Update/Delete ims
 
 [Inheritance](https://github.com/graduationProjectCMIC/kotlinStudy/blob/master/%EB%AA%A8%EC%9D%8C/Inheritance.md)
 
-[Clas](https://github.com/graduationProjectCMIC/kotlinStudy/blob/master/%EB%AA%A8%EC%9D%8C/class.md)
+[Class](https://github.com/graduationProjectCMIC/kotlinStudy/blob/master/%EB%AA%A8%EC%9D%8C/class.md)
 
 [Properties and Fields](https://github.com/graduationProjectCMIC/kotlinStudy/blob/master/%EB%AA%A8%EC%9D%8C/Properties%26Fields.md)
 
